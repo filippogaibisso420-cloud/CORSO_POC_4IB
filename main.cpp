@@ -7,5 +7,6 @@ int main() {
 	}
 	cout << "Ciao mondo" << endl;
 	cout << "Hello Jona" << endl;
+	return 0;
 }
 // Fine programma
